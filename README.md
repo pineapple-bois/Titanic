@@ -1,6 +1,6 @@
 # The Titanic - ML from disaster
 
-<img src="/Users/Ian/Desktop/Study/ComputerScience/Machine Learning/Projects/Titanic/Titanic.png"/>
+![Titanic.png](Titanic.png)
 ----
 
 ### Overview:
